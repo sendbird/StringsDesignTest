@@ -1,0 +1,25 @@
+/* 
+  Test.strings
+  StringsDesignSample
+
+  Created by Tez Park on 2021/09/02.
+  
+*/
+
+"Cancel" = "Cancel";
+"OK" = "OK";
+"Retry" = "Retry";
+"Save" = "Save";
+"Copy" = "Copy";
+"Delete" = "Delete";
+"Edit" = "Edit";
+"Remove" = "Remove";
+"Camera" = "Camera";
+"Photo library" = "Photo library";
+"Files" = "Files";
+"Loading..." = "Loading...";
+"Invite" = "Invite";
+"Take photo" = "Take photo";
+"Choose photo" = "Choose photo";
+"Remove photo" = "Remove photo";
+"Search" = "Search";
