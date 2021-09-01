@@ -15,7 +15,7 @@
 		9C3FDE8426DFE657008579E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C3FDE8226DFE657008579E7 /* LaunchScreen.storyboard */; };
 		9C3FDE8F26DFE657008579E7 /* StringsDesignSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C3FDE8E26DFE657008579E7 /* StringsDesignSampleTests.swift */; };
 		9C3FDE9A26DFE657008579E7 /* StringsDesignSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C3FDE9926DFE657008579E7 /* StringsDesignSampleUITests.swift */; };
-		9C3FDEA826DFE68D008579E7 /* Test.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9C3FDEA726DFE68D008579E7 /* Test.strings */; };
+		9C3FDEAF26DFECCF008579E7 /* Test.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9C3FDEB126DFECCF008579E7 /* Test.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		9C3FDE9526DFE657008579E7 /* StringsDesignSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StringsDesignSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C3FDE9926DFE657008579E7 /* StringsDesignSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringsDesignSampleUITests.swift; sourceTree = "<group>"; };
 		9C3FDE9B26DFE657008579E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9C3FDEA726DFE68D008579E7 /* Test.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Test.strings; sourceTree = "<group>"; };
+		9C3FDEB026DFECCF008579E7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Test.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +108,7 @@
 				9C3FDE8026DFE657008579E7 /* Assets.xcassets */,
 				9C3FDE8226DFE657008579E7 /* LaunchScreen.storyboard */,
 				9C3FDE8526DFE657008579E7 /* Info.plist */,
-				9C3FDEA726DFE68D008579E7 /* Test.strings */,
+				9C3FDEB126DFECCF008579E7 /* Test.strings */,
 			);
 			path = StringsDesignSample;
 			sourceTree = "<group>";
@@ -234,7 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C3FDEA826DFE68D008579E7 /* Test.strings in Resources */,
+				9C3FDEAF26DFECCF008579E7 /* Test.strings in Resources */,
 				9C3FDE8426DFE657008579E7 /* LaunchScreen.storyboard in Resources */,
 				9C3FDE8126DFE657008579E7 /* Assets.xcassets in Resources */,
 				9C3FDE7F26DFE654008579E7 /* Main.storyboard in Resources */,
@@ -314,6 +314,14 @@
 				9C3FDE8326DFE657008579E7 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		9C3FDEB126DFECCF008579E7 /* Test.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9C3FDEB026DFECCF008579E7 /* en */,
+			);
+			name = Test.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
