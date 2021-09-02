@@ -6,7 +6,7 @@
   
 */
 
-"Cancel" = "Cancel";
+"Cancel" = "CancelTest";
 "OK" = "OK";
 "Retry" = "Retry";
 "Save" = "Save";
@@ -14,7 +14,7 @@
 "Delete" = "Delete";
 "Edit" = "Edit";
 "Remove" = "Remove";
-"Camera" = "Camera";
+"Camera" = "CameraTest";
 "Photo library" = "Photo library";
 "Files" = "Files";
 "Loading..." = "Loading...";
